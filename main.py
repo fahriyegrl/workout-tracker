@@ -6,8 +6,8 @@ WEIGHT_KG = "60"
 HEIGHT_CM = "172"
 AGE = "35"
 
-APP_ID = "20ed913c"
-API_KEY = "96c6fba8aff5670e5958bd1f2e8a9e55"
+APP_ID = "xxxxxxx"
+API_KEY = "xxxxxxxxxxxxxxxxxx"
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 sheet_endpoint = "MY SHEETY ENDPOINT"
